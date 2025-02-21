@@ -1,0 +1,7 @@
+
+POST http://localhost:5001/api
+Content-Type: application/json
+
+{
+  "data": ["M", "1", "334", "4", "B"]
+}
